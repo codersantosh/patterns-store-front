@@ -1,0 +1,1113 @@
+# Copyright (C) 2024 patternswp
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Patterns Store Front 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/patterns-store-front\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-29T09:24:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: patterns-store-front\n"
+
+#. Theme Name of the theme
+#: admin/templates/notice-getting-started.php:22
+#: admin/templates/page-theme-info.php:86
+#: admin/templates/page-theme-info.php:91
+msgid "Patterns Store Front"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://patternswp.com/full-site-editing-fse-themes/patterns-store-front/"
+msgstr ""
+
+#. Description of the theme
+msgid "Patterns Store Front is a modern, block-based WordPress theme that seamlessly integrates with the Patterns Store plugin, developed by the core team at PatternsWP.com. Designed for designers and developers, it provides an elegant way to showcase pattern kits and individual patterns. With Full Site Editing (FSE) support, users can easily customize headers, footers, and layouts via the WordPress block editor. The theme includes responsive, pre-designed templates that beautifully display pattern collections, offering a visually engaging experience across devices, and making it perfect for organizing and presenting pattern design assets professionally."
+msgstr ""
+
+#. Author of the theme
+msgid "patternswp"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://patternswp.com/"
+msgstr ""
+
+#: admin/class-info.php:80
+msgid "Theme Info"
+msgstr ""
+
+#: admin/templates/notice-getting-started.php:19
+#: admin/templates/notice-review.php:20
+msgid "Dismiss"
+msgstr ""
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link ending html tag.
+#: admin/templates/notice-getting-started.php:28
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer, please make sure you visit our %2$swelcome page%3$s."
+msgstr ""
+
+#. translators: %s: singular/plular .
+#: admin/templates/notice-getting-started.php:44
+msgid "Clicking the button below will install and activate the following %s:"
+msgstr ""
+
+#: admin/templates/notice-getting-started.php:45
+msgid "plugins"
+msgstr ""
+
+#: admin/templates/notice-getting-started.php:45
+msgid "plugin"
+msgstr ""
+
+#: admin/templates/notice-getting-started.php:55
+msgid "Get started with Patterns Store Front"
+msgstr ""
+
+#. Translators: %1$s current user display name.
+#: admin/templates/notice-review.php:26
+msgid "Howdy, %1$s! It seems that you have been using this theme for more than 15 days. We hope you are happy with everything that the theme has to offer. If you can spare a minute, please help us by leaving a review on WordPress.org. By spreading the love, we can continue to develop new amazing features in the future!"
+msgstr ""
+
+#: admin/templates/notice-review.php:38
+msgid "Sure"
+msgstr ""
+
+#: admin/templates/notice-review.php:43
+msgid "Maybe later"
+msgstr ""
+
+#: admin/templates/notice-review.php:48
+msgid "I already did"
+msgstr ""
+
+#: admin/templates/notice-review.php:53
+msgid "Got theme support question?"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:21
+msgid "Welcome to Patterns Store Front"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:25
+msgid "The Patterns Store Front is now active and ready for use. Unleash your creativity with its extensive library of one-click demo Starter Packages, Patterns, and Pattern Kits."
+msgstr ""
+
+#: admin/templates/page-theme-info.php:29
+msgid "Documentation"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:32
+msgid "Visit Starter Templates"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:43
+msgid "Utilize Ready-Made Designs"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:45
+msgid "Quickly implement ready-made designs, patterns, templates, and template parts to streamline your site customization and enhance its design effortlessly."
+msgstr ""
+
+#: admin/templates/page-theme-info.php:55
+msgid "Pattern Copy, Preview, and Kit Link"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:57
+msgid "Add options for copying patterns, previewing them, and linking to pattern kits on the single pattern page, so users can easily manage and explore related pattern kits."
+msgstr ""
+
+#: admin/templates/page-theme-info.php:67
+msgid "Filter Patterns and Pattern Kits"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:69
+msgid "Display all patterns by default and enable users to filter patterns and pattern kits with the Filter Patterns buttons for better navigation and selection."
+msgstr ""
+
+#: admin/templates/page-theme-info.php:94
+msgid "Visit Site"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:97
+msgid "Support"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:106
+msgid "Contact Information"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:117
+msgid "Support:"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:122
+#: admin/templates/page-theme-info.php:210
+msgid "Create A Ticket"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:132
+msgid "Location:"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:136
+msgid "Kathmandu, Nepal"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:166
+msgid "Knowledge Base"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:171
+msgid "In-depth and well documented articles will help you to use the Patterns Store Front Themes in easiest way."
+msgstr ""
+
+#: admin/templates/page-theme-info.php:174
+msgid "Visit Knowledge Base"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:184
+msgid "Community"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:189
+msgid "We want to make customer experience even better. So, join our Facebook community for instant support from experts."
+msgstr ""
+
+#: admin/templates/page-theme-info.php:192
+msgid "Join Facebook Group"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:202
+msgid "24x7 Support"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:207
+msgid "We have dedicated support team 24*7 to help you in case you encounter any issue during and after the use of Patterns Store Front."
+msgstr ""
+
+#: admin/templates/page-theme-info.php:220
+msgid "Video Guide"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:225
+msgid "Patterns Store Front Theme comes with detailed video tutorials of each and every customization with practical demonstration."
+msgstr ""
+
+#: admin/templates/page-theme-info.php:228
+msgid "View Video Guide"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:247
+msgid "Recommended Plugins"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:272
+#: admin/templates/page-theme-info.php:277
+msgid "Installed and Activated"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:277
+msgid "Failed to install"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:280
+msgid "Activate"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:282
+msgid "Install and Activate"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:304
+#: patterns/footer.php:43
+msgid "Quick Links"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:310
+msgid "Edit Header"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:313
+msgid "Edit Footer"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:316
+msgid "Edit Primary Sidebar"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:319
+msgid "Edit Secondary Sidebar"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:322
+msgid "All template parts"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:325
+msgid "Edit Frontpage"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:328
+msgid "Edit Atchive Page"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:331
+msgid "All Templates"
+msgstr ""
+
+#: admin/templates/page-theme-info.php:348
+#: patterns/faq.php:17
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#. translators: %s: Property name.
+#: includes/api/class-api-settings.php:154
+msgid "The %s property has an invalid stored value, and cannot be updated to null."
+msgstr ""
+
+#: includes/api/class-api.php:115
+#: includes/api/class-api.php:127
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/class-block-bindings.php:60
+msgctxt "Label for the copyright placeholder in the editor"
+msgid "&copy; YEAR"
+msgstr ""
+
+#: includes/class-block-bindings.php:69
+msgctxt "Label for the archive title placeholder in the editor"
+msgid "Archive title"
+msgstr ""
+
+#. translators: Copyright date format, see https://www.php.net/manual/datetime.format.php
+#: includes/class-block-bindings.php:94
+msgctxt "copyright date format"
+msgid "Y"
+msgstr ""
+
+#. translators: 1: Copyright symbol or word, 2: Date, 3: Site title
+#: includes/class-block-bindings.php:97
+msgid "%1$s %2$s %3$s"
+msgstr ""
+
+#. translators: %s is the search term.
+#: includes/class-block-bindings.php:108
+msgid "Search results for: \"%s\""
+msgstr ""
+
+#: includes/class-block-bindings.php:112
+msgid "Blog"
+msgstr ""
+
+#: includes/functions.php:28
+msgid "Patterns Store"
+msgstr ""
+
+#. translators: %s the plugin info
+#: includes/functions.php:68
+msgid "Not enough information about plugin. Plugin info %s"
+msgstr ""
+
+#. translators: %s is the plugin name
+#: includes/functions.php:89
+#: includes/functions.php:105
+msgid "Plugin \"%s\" is already active."
+msgstr ""
+
+#. translators: %1$s is the plugin name, %2$s is error message
+#: includes/functions.php:119
+#: includes/functions.php:250
+msgid "Error activating plugin \"%1$s\": %2$s"
+msgstr ""
+
+#. translators: %s is the plugin name.
+#: includes/functions.php:130
+#: includes/functions.php:236
+msgid "Plugin \"%s\" activated successfully."
+msgstr ""
+
+#. translators: %s is the plugin name.
+#: includes/functions.php:139
+#: includes/functions.php:261
+msgid "You don't have permission to activate the plugin \"%s\"."
+msgstr ""
+
+#. translators: %1$s is the plugin name, %2$s is error message
+#: includes/functions.php:164
+msgid "Error retrieving information for plugin \"%1$s\": %2$s"
+msgstr ""
+
+#. translators: %1$s is the plugin name, %2$s is error message
+#: includes/functions.php:183
+#: includes/functions.php:193
+#: includes/functions.php:203
+#: includes/functions.php:223
+msgid "Error installing plugin \"%1$s\": %2$s"
+msgstr ""
+
+#: includes/functions.php:213
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#. translators: %s is the plugin name.
+#: includes/functions.php:271
+msgid "Plugin \"%s\" installed and activated successfully."
+msgstr ""
+
+#: includes/functions.php:305
+msgid "and"
+msgstr ""
+
+#: includes/functions.php:549
+msgid "How can I customize the theme header?"
+msgstr ""
+
+#: includes/functions.php:550
+msgid "You can customize the theme header by editing the Header template part in the Site Editor. Go to Appearance > Editor > Patterns > Header, then select and edit the Header template part."
+msgstr ""
+
+#: includes/functions.php:553
+msgid "How do I change the footer credits?"
+msgstr ""
+
+#: includes/functions.php:554
+msgid "To change the footer credits, go to  Appearance > Editor > Patterns > Footer, then select and edit the Footer template part. You can add your own text or remove the existing credits."
+msgstr ""
+
+#: includes/functions.php:557
+msgid "Does this theme support block patterns?"
+msgstr ""
+
+#: includes/functions.php:558
+msgid "Yes, this theme includes several pre-designed block patterns that you can use to quickly create layouts. You can find these patterns in the block inserter."
+msgstr ""
+
+#: includes/functions.php:561
+msgid "How can I create custom templates?"
+msgstr ""
+
+#: includes/functions.php:562
+msgid "You can create custom templates by going to Appearance > Editor > Templates, then click Add New Template. You can then design your custom template using blocks."
+msgstr ""
+
+#: includes/functions.php:565
+msgid "How do I use global styles?"
+msgstr ""
+
+#: includes/functions.php:566
+msgid "To use global styles, go to Appearance > Editor > Styles, then click on the Edit icon in the top right side of Styles. From there, you can customize the colors, typography, and layout for your entire site."
+msgstr ""
+
+#: includes/functions.php:569
+msgid "How can I add a \"Pattern Copy\" button to patterns?"
+msgstr ""
+
+#: includes/functions.php:570
+msgid "To add a \"Pattern Copy\" button, use the Patterns Store plugin. In the Editor, insert a Query Loop block and include a Buttons block within it. Inside the Buttons block, add the \"Pattern Copy\" button to enable users to copy patterns."
+msgstr ""
+
+#: includes/functions.php:573
+msgid "How can I add a \"Pattern Preview\" button to patterns?"
+msgstr ""
+
+#: includes/functions.php:574
+msgid "To add a \"Pattern Preview\" button, use the Patterns Store plugin. In the Editor, insert a Query Loop block and include a Buttons block within it. Inside the Buttons block, add the \"Pattern Preview\" button to allow users to preview patterns."
+msgstr ""
+
+#: includes/functions.php:577
+msgid "How can I display related patterns?"
+msgstr ""
+
+#: includes/functions.php:578
+msgid "To display related patterns, use the Patterns Store plugin. In the Single Pattern or Single Download template, insert a Query Loop block and enable pattern relationships in the block’s settings to show related patterns."
+msgstr ""
+
+#: includes/functions.php:581
+msgid "How can I link a pattern kit from its pattern?"
+msgstr ""
+
+#: includes/functions.php:582
+msgid "To link a pattern kit from a pattern, use the Patterns Store plugin. In the Single Pattern or Single Download template, add a Buttons block and include the \"Pattern Kits (Parent)\" button to create a link to the associated pattern kit."
+msgstr ""
+
+#: includes/functions.php:585
+msgid "What buttons can I use within the Buttons block?"
+msgstr ""
+
+#: includes/functions.php:586
+msgid "Within the Buttons block, you can use the following buttons: \"Pattern Kits (Parent)\" link, \"Pattern Copy,\" and \"Pattern Preview\" for single templates, and \"All Patterns Filter,\" \"Pattern Kits Filter,\" and \"Pattern Filter\" for archive templates to filter patterns."
+msgstr ""
+
+#: patterns/archives.php:18
+msgid "Archives"
+msgstr ""
+
+#: patterns/calendar.php:17
+msgid "Calendar"
+msgstr ""
+
+#: patterns/card-1.php:22
+msgid "Visual Page Builder"
+msgstr ""
+
+#: patterns/card-1.php:26
+#: patterns/card-3.php:26
+#: patterns/featured-section-1.php:60
+#: patterns/featured-section-1.php:78
+#: patterns/featured-section-4.php:40
+#: patterns/featured-section-4.php:73
+msgid "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literatu"
+msgstr ""
+
+#: patterns/card-2.php:18
+msgid "1"
+msgstr ""
+
+#: patterns/card-2.php:25
+#: patterns/featured-section-2.php:38
+msgid "Customize Typography and Colors Style panel"
+msgstr ""
+
+#: patterns/card-2.php:29
+#: patterns/featured-section-2.php:42
+msgid "Elementum ipsum donec usodales porttitor mauris augue fermentum sagittis elementum."
+msgstr ""
+
+#: patterns/card-3.php:22
+msgid "Application Development"
+msgstr ""
+
+#: patterns/card-3.php:31
+#: patterns/featured-section-4.php:45
+#: patterns/featured-section-4.php:78
+msgid "Continue Reading"
+msgstr ""
+
+#: patterns/card-4.php:16
+msgid "10M+"
+msgstr ""
+
+#: patterns/card-4.php:20
+#: patterns/featured-section-5.php:41
+msgid "Contrary to popular"
+msgstr ""
+
+#: patterns/card-5.php:22
+msgid "Quality Gurantee"
+msgstr ""
+
+#: patterns/card-5.php:26
+#: patterns/featured-section-6.php:46
+#: patterns/featured-section-6.php:63
+msgid "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC,"
+msgstr ""
+
+#: patterns/comments.php:19
+msgid "Comments"
+msgstr ""
+
+#: patterns/contact-form.php:20
+msgid "Let’s talk"
+msgstr ""
+
+#: patterns/contact-form.php:25
+msgid "Feel Free To Contact Us."
+msgstr ""
+
+#: patterns/contact-form.php:29
+msgid "We’d love to hear from you! Please fill out the form or reach us through the following methods."
+msgstr ""
+
+#: patterns/contact-form.php:35
+msgid "Get Direction"
+msgstr ""
+
+#: patterns/contact-form.php:39
+msgid "785 15h Street, Office 478 Berlin, De 81566 6391 Elgin St. Celina, 10299"
+msgstr ""
+
+#: patterns/contact-form.php:45
+msgid "Phone Number"
+msgstr ""
+
+#: patterns/contact-form.php:49
+#: patterns/contact-form.php:53
+msgid "(629) 555-0129"
+msgstr ""
+
+#: patterns/contact-form.php:59
+msgid "E-mail"
+msgstr ""
+
+#: patterns/contact-form.php:63
+#: patterns/contact-form.php:67
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/contact-form.php:78
+msgid "Add Contact form shortcode"
+msgstr ""
+
+#: patterns/copyright.php:15
+msgid "Dynamic copyright text"
+msgstr ""
+
+#: patterns/details-1.php:15
+#: patterns/featured-section-5.php:62
+msgid "Global search engine optimization"
+msgstr ""
+
+#: patterns/details-1.php:20
+#: patterns/featured-section-5.php:55
+#: patterns/featured-section-5.php:67
+#: patterns/section-title-3.php:20
+msgid "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor"
+msgstr ""
+
+#: patterns/faq.php:21
+#: patterns/faq.php:34
+#: patterns/faq.php:44
+#: patterns/faq.php:68
+#: patterns/faq.php:78
+#: patterns/section-title-5.php:21
+#: patterns/section-title-6.php:20
+msgid "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+msgstr ""
+
+#: patterns/faq.php:29
+msgid "What are included in the purchased package?"
+msgstr ""
+
+#: patterns/faq.php:39
+msgid "What are the minimal requirements to use admin themes?"
+msgstr ""
+
+#: patterns/faq.php:53
+msgid "What are the available payment options?"
+msgstr ""
+
+#: patterns/faq.php:58
+msgid "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old"
+msgstr ""
+
+#: patterns/faq.php:63
+msgid "What kind of support is available?"
+msgstr ""
+
+#: patterns/faq.php:73
+msgid "How long is support valid for?"
+msgstr ""
+
+#: patterns/featured-section-1.php:36
+msgid "Free Lifetime Update"
+msgstr ""
+
+#: patterns/featured-section-1.php:40
+msgid "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literatu "
+msgstr ""
+
+#: patterns/featured-section-1.php:56
+msgid "Modern Minimal Design"
+msgstr ""
+
+#: patterns/featured-section-1.php:74
+msgid "Easy Customization"
+msgstr ""
+
+#: patterns/featured-section-2.php:18
+msgid "Feature image 1"
+msgstr ""
+
+#: patterns/featured-section-2.php:51
+msgid "Know More"
+msgstr ""
+
+#: patterns/featured-section-4.php:36
+msgid "Digital Marketing"
+msgstr ""
+
+#: patterns/featured-section-4.php:69
+msgid "Mobile Application"
+msgstr ""
+
+#: patterns/featured-section-5.php:23
+msgid "Feature image 2"
+msgstr ""
+
+#: patterns/featured-section-5.php:37
+msgid "16K+"
+msgstr ""
+
+#: patterns/featured-section-5.php:51
+msgid "We Are Dedicated to Shape Perfect Solutions"
+msgstr ""
+
+#: patterns/featured-section-6.php:19
+msgid "Why our marketplace?"
+msgstr ""
+
+#: patterns/featured-section-6.php:23
+msgid "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. "
+msgstr ""
+
+#: patterns/featured-section-6.php:42
+msgid "24/7 Customer Support"
+msgstr ""
+
+#: patterns/featured-section-6.php:60
+msgid "Easy Buy & Sell"
+msgstr ""
+
+#: patterns/footer.php:37
+msgid "We are available to take the next project with full energy"
+msgstr ""
+
+#: patterns/footer.php:52
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer.php:59
+msgid "000 - 9874 563 210"
+msgstr ""
+
+#: patterns/footer.php:63
+msgid "codersantosh@gmail.com"
+msgstr ""
+
+#: patterns/hero-banner.php:15
+msgid "Feature image 3"
+msgstr ""
+
+#: patterns/hidden-404.php:22
+msgid "Ooops!"
+msgstr ""
+
+#: patterns/hidden-404.php:26
+msgid "This page could not be found."
+msgstr ""
+
+#: patterns/hidden-404.php:30
+msgid "We can't find the page you're looking for. Check out our Help Center or head back to home"
+msgstr ""
+
+#: patterns/hidden-404.php:36
+msgid "Help Center"
+msgstr ""
+
+#: patterns/hidden-404.php:40
+msgid "Home"
+msgstr ""
+
+#: patterns/hidden-no-search-results.php:15
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/hidden-no-search-results.php:19
+msgctxt "label"
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-no-search-results.php:19
+msgctxt "placeholder for search field"
+msgid "Search..."
+msgstr ""
+
+#: patterns/hidden-no-search-results.php:19
+#: patterns/query-pattern-header.php:40
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-primary-header.php:19
+msgid "Patterns Store Front : "
+msgstr ""
+
+#: patterns/hidden-primary-header.php:19
+msgid "Complete your website with millions of Patterns, Templates &amp; Many more."
+msgstr ""
+
+#: patterns/hidden-primary-header.php:24
+msgid "Get Unlimited Downloads"
+msgstr ""
+
+#: patterns/hidden-primary-header.php:40
+msgid "Get Started"
+msgstr ""
+
+#: patterns/hidden-query-no-results.php:16
+msgid "Page could not be found"
+msgstr ""
+
+#: patterns/hidden-query-no-results.php:20
+msgid "We're sorry, the page you requested could not be found. Please go back to the homepage"
+msgstr ""
+
+#: patterns/hidden-query-no-results.php:25
+msgid "Back to Home"
+msgstr ""
+
+#: patterns/hidden-query-pattern-post-template-content.php:18
+#: patterns/pattern-content-header.php:34
+msgid "Copy"
+msgstr ""
+
+#: patterns/hidden-query-pattern-post-template-content.php:31
+#: patterns/pattern-content-header.php:18
+msgid "Relation"
+msgstr ""
+
+#: patterns/hidden-query-pattern-post-template-content.php:47
+msgid "Preview"
+msgstr ""
+
+#: patterns/hidden-single-download-sidebar.php:21
+#: patterns/hidden-single-pattern-sidebar.php:19
+msgid "Required Plugin/s"
+msgstr ""
+
+#: patterns/hidden-single-download-sidebar.php:27
+#: patterns/hidden-single-pattern-sidebar.php:25
+msgid "No recommended plugins."
+msgstr ""
+
+#: patterns/hidden-single-download-sidebar.php:35
+#: patterns/hidden-single-pattern-sidebar.php:33
+msgid "Author"
+msgstr ""
+
+#: patterns/hidden-single-download-sidebar.php:47
+#: patterns/hidden-single-pattern-sidebar.php:45
+msgid "Category"
+msgstr ""
+
+#: patterns/hidden-single-download-sidebar.php:53
+#: patterns/hidden-single-pattern-sidebar.php:51
+msgid "Categories not found."
+msgstr ""
+
+#: patterns/hidden-single-download-sidebar.php:61
+#: patterns/hidden-single-pattern-sidebar.php:59
+msgid "Tags"
+msgstr ""
+
+#: patterns/hidden-single-download-sidebar.php:67
+#: patterns/hidden-single-pattern-sidebar.php:65
+msgid "Tags not found."
+msgstr ""
+
+#: patterns/latest-comments.php:16
+msgid "Recent comments"
+msgstr ""
+
+#: patterns/latest-posts.php:16
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/navigation-menu.php:14
+msgctxt "label"
+msgid "Home"
+msgstr ""
+
+#: patterns/pagination.php:15
+msgctxt "label"
+msgid "Previous"
+msgstr ""
+
+#: patterns/pagination.php:19
+msgctxt "label"
+msgid "Next"
+msgstr ""
+
+#: patterns/pattern-content-header.php:26
+msgid "Live Preview"
+msgstr ""
+
+#: patterns/pattern-content-header.php:30
+msgid "View Patterns Kits"
+msgstr ""
+
+#: patterns/pattern-related-title.php:17
+msgid "Pattern related title"
+msgstr ""
+
+#: patterns/post-meta.php:19
+msgid "Posted :"
+msgstr ""
+
+#: patterns/post-meta.php:26
+msgid "by :"
+msgstr ""
+
+#: patterns/query-pattern-header.php:25
+msgid "All"
+msgstr ""
+
+#: patterns/query-pattern-header.php:29
+msgid "Pattern kits"
+msgstr ""
+
+#: patterns/query-pattern-header.php:33
+msgid "Patterns"
+msgstr ""
+
+#: patterns/scroll-to-top-button.php:17
+msgid "Scroll To Top"
+msgstr ""
+
+#: patterns/section-title-1.php:15
+msgid "Amazing services to build busines growth"
+msgstr ""
+
+#: patterns/section-title-1.php:19
+#: patterns/section-title-2.php:23
+#: patterns/section-title-4.php:20
+msgid "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in"
+msgstr ""
+
+#: patterns/section-title-1.php:24
+#: patterns/section-title-2.php:29
+#: patterns/section-title-4.php:26
+msgid "Try for Free"
+msgstr ""
+
+#: patterns/section-title-1.php:28
+msgid "See How It works "
+msgstr ""
+
+#: patterns/section-title-2.php:18
+#: patterns/section-title-3.php:16
+msgid "An award winning agency specialized in web design"
+msgstr ""
+
+#: patterns/section-title-4.php:16
+msgid "Try it now !"
+msgstr ""
+
+#: patterns/section-title-5.php:17
+msgid "Largest Library of Pre-Built Templates"
+msgstr ""
+
+#: patterns/section-title-5.php:27
+msgid "View All Demos"
+msgstr ""
+
+#: patterns/section-title-6.php:16
+msgid "Explore More Features"
+msgstr ""
+
+#: patterns/sitemap.php:19
+msgid "Pages"
+msgstr ""
+
+#: patterns/sitemap.php:29
+msgid "Categories"
+msgstr ""
+
+#: patterns/sitemap.php:39
+msgid "Posts"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Default"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Quaternary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Quinary"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (with both sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (with left sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (with right sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single (with both sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single (with left sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single (with right sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Archive Download"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Download"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Download Category Taxonomy"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Download Tag Taxonomy"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Archive Pattern"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Pattern"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Pattern Category Taxonomy"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Pattern Tag Taxonomy"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Pattern Plugin Taxonomy"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Pattern Block Type Taxonomy"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Pattern Template Type Taxonomy"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Pattern Post Type Taxonomy"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Site Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Site Header (with absolute position)"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Site Header (default)"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Archive Page Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Blog Home Page Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Search Page Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Navigation"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Single Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Primary Header"
+msgstr ""
