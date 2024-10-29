@@ -100,16 +100,16 @@ Thank you for contributing to this project!
 - **PatternsWP.com** - [PatternsWP.com](https://patternswp.com/)
 - **Santosh Kunwar** - [codersantosh](https://twitter.com/codersantosh)
 
-See also the list of [contributors](https://patternswp.com//patterns-store-front/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/patternswp/patterns-store-front/graphs/contributors) who participated in this project.
 
 ## License & Attribution
 
 Patterns Store Front WordPress Theme, (C) 2024 PatternsWP.com
 Patterns Store Front is distributed under the terms of the GNU GPL.
 
-Patterns Store Front is based on [WP Block Theme Boilerplate](https://patternswp.com//wp-block-theme-boilerplate), (C) 2024 [Santosh Kunwar](https://twitter.com/codersantosh)., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
+Patterns Store Front is based on [WP Block Theme Boilerplate](https://github.com/codersantosh/wp-block-theme-boilerplate), (C) 2024 [Santosh Kunwar](https://twitter.com/codersantosh)., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
 
-[Atomic CSS](https://patternswp.com//atomic-css), (C) 2024 [Santosh Kunwar](https://twitter.com/codersantosh)., [MIT](https://opensource.org/licenses/MIT)
+[Atomic CSS](https://github.com/codersantosh/atomic-css), (C) 2024 [Santosh Kunwar](https://twitter.com/codersantosh)., [MIT](https://opensource.org/licenses/MIT)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
