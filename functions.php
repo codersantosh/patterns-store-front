@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 define( 'PATTERNS_STORE_THEME_PATH', trailingslashit( get_template_directory() ) );
 define( 'PATTERNS_STORE_THEME_URL', trailingslashit( get_template_directory_uri() ) );
-define( 'PATTERNS_STORE_THEME_VERSION', '1.0.1' );
+define( 'PATTERNS_STORE_THEME_VERSION', '1.0.2' );
 define( 'PATTERNS_STORE_THEME_THEME_NAME', 'patterns-store-front' );
 define( 'PATTERNS_STORE_THEME_OPTION_NAME', 'patterns-store-front' );
 
