@@ -36,7 +36,7 @@ Patterns Store Front is a modern theme designed for developers and designers to 
 - Clone the repository to /wp-content/themes/:
 
   ```sh
-  git clone https://patternswp.com//patterns-store-front.git
+  git clone https://github.com/patternswp/patterns-store-front.git
   ```
 
   Or download and upload the theme files to /wp-content/themes/patterns-store-front.
@@ -121,12 +121,9 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
-## About Me
+## About Us
 
-<strong>I just love WordPress more…</strong>
-
-- [![CoderSantosh on Twitter](https://img.shields.io/twitter/follow/codersantosh.svg)](https://twitter.com/codersantosh/)
-- <a href="https://profiles.wordpress.org/codersantosh/" target="_blank"><img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" width="50" height="50" />WordPress Profile</a>
+[PatternsWP – WordPress Patterns, modern plugins and FSE themes](https://patternswp.com/)
 
 ### Recent Projects
 
