@@ -25,10 +25,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 					esc_html_e( 'The Patterns Store Front is now active and ready for use. Unleash your creativity with its extensive library of one-click demo Starter Packages, Patterns, and Pattern Kits.', 'patterns-store-front' );
 					?>
 				</p>
-				<a href="https://github.com/patternswp/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="patternswp-psf-gsn-btn patternswp-psf-btn-outline button button-primary button-hero patternswp-psf-install-plugins">
+				<a href="https://patternswp.com/full-site-editing-fse-themes/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="patternswp-psf-gsn-btn patternswp-psf-btn-outline button button-primary button-hero patternswp-psf-install-plugins">
 					<?php esc_html_e( 'Documentation', 'patterns-store-front' ); ?>
 				</a>
-				<a href="https://github.com/patternswp/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="patternswp-psf-btn patternswp-psf-btn-default button button-secodary button-hero" target="_blank">
+				<a href="https://patternswp.com/full-site-editing-fse-themes/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="patternswp-psf-btn patternswp-psf-btn-default button button-secodary button-hero" target="_blank">
 					<?php esc_html_e( 'Visit Starter Templates', 'patterns-store-front' ); ?>
 				</a>
 			</div>
@@ -90,10 +90,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 									<h3 class="txt">
 										<?php esc_html_e( 'Patterns Store Front', 'patterns-store-front' ); ?>
 									</h3>
-									<a href="https://github.com/patternswp/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="button-primary patternswp-psf-btn-primary">
+									<a href="https://patternswp.com/full-site-editing-fse-themes/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="button-primary patternswp-psf-btn-primary">
 										<?php esc_html_e( 'Visit Site', 'patterns-store-front' ); ?>
 									</a>
-									<a href="https://github.com/patternswp/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="button-secondary patternswp-psf-btn-secondary">
+									<a href="https://patternswp.com/full-site-editing-fse-themes/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="button-secondary patternswp-psf-btn-secondary">
 										<?php esc_html_e( 'Support', 'patterns-store-front' ); ?>
 									</a>
 								</div>
@@ -118,7 +118,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 												</b>
 											</dt>
 											<dd class="at-m">
-												<a href="https://github.com/patternswp/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow">
+												<a href="https://github.com/patternswp/patterns-store-front/issues/new" target="_blank" rel="noopener noreferrer nofollow">
 													<?php esc_html_e( 'Create A Ticket', 'patterns-store-front' ); ?>
 												</a>
 											</dd>                                                        
@@ -170,7 +170,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 									<p class="at-m">
 										<?php esc_html_e( 'In-depth and well documented articles will help you to use the Patterns Store Front Themes in easiest way.', 'patterns-store-front' ); ?>
 									</p>
-									<a href="https://github.com/patternswp/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="patternswp-psf-btn">
+									<a href="https://patternswp.com/full-site-editing-fse-themes/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="patternswp-psf-btn">
 										<?php esc_html_e( 'Visit Knowledge Base', 'patterns-store-front' ); ?>
 									</a>
 								</div>
@@ -188,7 +188,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 									<p class="at-m">
 										<?php esc_html_e( 'We want to make customer experience even better. So, join our Facebook community for instant support from experts.', 'patterns-store-front' ); ?>
 									</p>
-									<a href="https://github.com/patternswp/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="patternswp-psf-btn">
+									<a href="https://patternswp.com/full-site-editing-fse-themes/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="patternswp-psf-btn">
 										<?php esc_html_e( 'Join Facebook Group', 'patterns-store-front' ); ?>
 									</a>
 								</div>
@@ -206,7 +206,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 									<p class="at-m">
 										<?php esc_html_e( 'We have dedicated support team 24*7 to help you in case you encounter any issue during and after the use of Patterns Store Front.', 'patterns-store-front' ); ?>
 									</p>
-									<a href="https://github.com/patternswp/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="patternswp-psf-btn">
+									<a href="https://github.com/patternswp/patterns-store-front/issues/new" target="_blank" rel="noopener noreferrer nofollow" class="patternswp-psf-btn">
 										<?php esc_html_e( 'Create A Ticket', 'patterns-store-front' ); ?>
 									</a>
 								</div>
@@ -224,7 +224,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 									<p class="at-m">
 										<?php esc_html_e( 'Patterns Store Front Theme comes with detailed video tutorials of each and every customization with practical demonstration.', 'patterns-store-front' ); ?>
 									</p>
-									<a href="https://github.com/patternswp/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="patternswp-psf-btn">
+									<a href="https://patternswp.com/full-site-editing-fse-themes/patterns-store-front" target="_blank" rel="noopener noreferrer nofollow" class="patternswp-psf-btn">
 										<?php esc_html_e( 'View Video Guide', 'patterns-store-front' ); ?>
 									</a>
 								</div>
