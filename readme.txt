@@ -92,6 +92,8 @@ https://pxhere.com/en/photo/1633004
 = 1.0.5 - 2024-11-12 =
 * Added: New "Pages" pattern category.
 * Added: Demo import feature via Advanced Import.
+* Updated: Removed underline from site title.
+* Updated: Link to WordPress dot org.
 
 = 1.0.4 - 2024-11-11 =
 * Updated: Underline removed from select components.
