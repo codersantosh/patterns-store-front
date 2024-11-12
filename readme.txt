@@ -3,7 +3,7 @@ Contributors: patternswp, codersantosh
 Requires at least: 6.6
 Tested up to: 6.7
 Requires PHP: 7.0
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -88,6 +88,10 @@ https://pxhere.com/en/photo/1633004
 <div class="at-row"><div class="at-col-6"><label>[text* your-name autocomplete:name placeholder "Your name"] </label></div><div class="at-col-6"><label>[email* your-email autocomplete:email placeholder "Your email"] </label></div><div class="at-col-6"><label>[text* your-subject placeholder "Subject"] </label></div><div class="at-col-6">[text* text-215 placeholder "Phone Number"]</div><div class="at-col-12"><label>[textarea your-message placeholder "Your message (optional)"] </label></div><div class="at-col-12">[submit "Send Message"]</div></div>
 
 == Changelog ==
+
+= 1.0.5 - 2024-11-12 =
+* Added: New "Pages" pattern category.
+* Added: Demo import feature via Advanced Import.
 
 = 1.0.4 - 2024-11-11 =
 * Updated: Underline removed from select components.

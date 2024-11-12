@@ -66,8 +66,38 @@ class Patterns_Store_Front_Include {
 	 */
 	public function run() {
 
+		add_action( 'init', array( $this, 'register_block_pattern_category' ) );
 		add_action( 'init', array( $this, 'register_scripts_and_styles' ) );
 		add_action( 'after_setup_theme', array( $this, 'setup_theme' ) );
+	}
+
+	/**
+	 * Register pattern categories
+	 *
+	 * @since    1.0.0
+	 * @access   public
+	 * @return void
+	 */
+	public function register_block_pattern_category() {
+		register_block_pattern_category(
+			'page',
+			array(
+				'label'       => _x( 'Pages', 'Block pattern category', 'patterns-store-front' ),
+				'description' => __( 'A collection of full page layouts.', 'patterns-store-front' ),
+			)
+		);
+	}
+
+	/**
+	 * Register scripts and styles
+	 *
+	 * @since    1.0.0
+	 * @access   public
+	 * @return void
+	 */
+	public function register_scripts_and_styles() {
+		/* Atomic css */
+		wp_register_style( 'atomic', PATTERNS_STORE_THEME_URL . 'assets/library/atomic-css/atomic.min.css', array(), PATTERNS_STORE_THEME_VERSION );
 	}
 
 	/**
@@ -125,18 +155,6 @@ class Patterns_Store_Front_Include {
 		}
 
 		return $cache[ $user_id ];
-	}
-
-	/**
-	 * Register scripts and styles
-	 *
-	 * @since    1.0.0
-	 * @access   public
-	 * @return void
-	 */
-	public function register_scripts_and_styles() {
-		/* Atomic css */
-		wp_register_style( 'atomic', PATTERNS_STORE_THEME_URL . 'assets/library/atomic-css/atomic.min.css', array(), PATTERNS_STORE_THEME_VERSION );
 	}
 }
 
