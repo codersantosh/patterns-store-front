@@ -118,7 +118,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 												</b>
 											</dt>
 											<dd class="at-m">
-												<a href="https://github.com/patternswp/patterns-store-front/issues/new" target="_blank" rel="noopener noreferrer nofollow">
+												<a href="https://wordpress.org/support/theme/patterns-store-front/" target="_blank" rel="noopener noreferrer nofollow">
 													<?php esc_html_e( 'Create A Ticket', 'patterns-store-front' ); ?>
 												</a>
 											</dd>                                                        
@@ -206,7 +206,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 									<p class="at-m">
 										<?php esc_html_e( 'We have dedicated support team 24*7 to help you in case you encounter any issue during and after the use of Patterns Store Front.', 'patterns-store-front' ); ?>
 									</p>
-									<a href="https://github.com/patternswp/patterns-store-front/issues/new" target="_blank" rel="noopener noreferrer nofollow" class="patternswp-psf-btn">
+									<a href="https://wordpress.org/support/theme/patterns-store-front/" target="_blank" rel="noopener noreferrer nofollow" class="patternswp-psf-btn">
 										<?php esc_html_e( 'Create A Ticket', 'patterns-store-front' ); ?>
 									</a>
 								</div>

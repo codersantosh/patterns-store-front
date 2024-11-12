@@ -33,7 +33,7 @@ global $current_user;
 	</p>
 
 	<div class="links">
-		<a href="https://github.com/patternswp/patterns-store-front" class="patternswp-psf-rn-temporary-close patternswp-psf-btn-primary button-primary at-inl-flx at-al-itm-ctr at-gap" target="_blank" rel="noopener noreferrer nofollow">
+		<a href="https://wordpress.org/support/theme/patterns-store-front/reviews/#new-post" class="patternswp-psf-rn-temporary-close patternswp-psf-btn-primary button-primary at-inl-flx at-al-itm-ctr at-gap" target="_blank" rel="noopener noreferrer nofollow">
 			<span class="dashicons dashicons-thumbs-up"></span>
 			<span><?php esc_html_e( 'Sure', 'patterns-store-front' ); ?></span>
 		</a>
@@ -48,7 +48,7 @@ global $current_user;
 			<span><?php esc_html_e( 'I already did', 'patterns-store-front' ); ?></span>
 		</button>
 
-		<a href="<?php echo esc_url( 'https://github.com/patternswp/patterns-store-front' ); ?>" class="patternswp-psf-rn-temporary-close button-secondary at-inl-flx at-al-itm-ctr at-gap" target="_blank" rel="noopener noreferrer nofollow">
+		<a href="<?php echo esc_url( 'https://wordpress.org/support/theme/patterns-store-front/' ); ?>" class="patternswp-psf-rn-temporary-close button-secondary at-inl-flx at-al-itm-ctr at-gap" target="_blank" rel="noopener noreferrer nofollow">
 			<span class="dashicons dashicons-edit"></span>
 			<span><?php esc_html_e( 'Got theme support question?', 'patterns-store-front' ); ?></span>
 		</a>
