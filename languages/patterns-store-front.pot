@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-11-12T12:54:33+00:00\n"
+"POT-Creation-Date: 2024-11-12T13:20:13+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.6.0\n"
 "X-Domain: patterns-store-front\n"
@@ -328,132 +328,132 @@ msgid "Not enough information about plugin. Plugin info %s"
 msgstr ""
 
 #. translators: %s is the plugin name
-#: includes/functions.php:94
-#: includes/functions.php:110
+#: includes/functions.php:95
+#: includes/functions.php:111
 msgid "Plugin \"%s\" is already active."
 msgstr ""
 
 #. translators: %1$s is the plugin name, %2$s is error message
-#: includes/functions.php:124
-#: includes/functions.php:255
+#: includes/functions.php:125
+#: includes/functions.php:256
 msgid "Error activating plugin \"%1$s\": %2$s"
 msgstr ""
 
 #. translators: %s is the plugin name.
-#: includes/functions.php:135
-#: includes/functions.php:241
+#: includes/functions.php:136
+#: includes/functions.php:242
 msgid "Plugin \"%s\" activated successfully."
 msgstr ""
 
 #. translators: %s is the plugin name.
-#: includes/functions.php:144
-#: includes/functions.php:266
+#: includes/functions.php:145
+#: includes/functions.php:267
 msgid "You don't have permission to activate the plugin \"%s\"."
 msgstr ""
 
 #. translators: %1$s is the plugin name, %2$s is error message
-#: includes/functions.php:169
+#: includes/functions.php:170
 msgid "Error retrieving information for plugin \"%1$s\": %2$s"
 msgstr ""
 
 #. translators: %1$s is the plugin name, %2$s is error message
-#: includes/functions.php:188
-#: includes/functions.php:198
-#: includes/functions.php:208
-#: includes/functions.php:228
+#: includes/functions.php:189
+#: includes/functions.php:199
+#: includes/functions.php:209
+#: includes/functions.php:229
 msgid "Error installing plugin \"%1$s\": %2$s"
 msgstr ""
 
-#: includes/functions.php:218
+#: includes/functions.php:219
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
 msgstr ""
 
 #. translators: %s is the plugin name.
-#: includes/functions.php:276
+#: includes/functions.php:277
 msgid "Plugin \"%s\" installed and activated successfully."
 msgstr ""
 
-#: includes/functions.php:310
+#: includes/functions.php:311
 msgid "and"
 msgstr ""
 
-#: includes/functions.php:554
+#: includes/functions.php:555
 msgid "How can I customize the theme header?"
 msgstr ""
 
-#: includes/functions.php:555
+#: includes/functions.php:556
 msgid "You can customize the theme header by editing the Header template part in the Site Editor. Go to Appearance > Editor > Patterns > Header, then select and edit the Header template part."
 msgstr ""
 
-#: includes/functions.php:558
+#: includes/functions.php:559
 msgid "How do I change the footer credits?"
 msgstr ""
 
-#: includes/functions.php:559
+#: includes/functions.php:560
 msgid "To change the footer credits, go to  Appearance > Editor > Patterns > Footer, then select and edit the Footer template part. You can add your own text or remove the existing credits."
 msgstr ""
 
-#: includes/functions.php:562
+#: includes/functions.php:563
 msgid "Does this theme support block patterns?"
 msgstr ""
 
-#: includes/functions.php:563
+#: includes/functions.php:564
 msgid "Yes, this theme includes several pre-designed block patterns that you can use to quickly create layouts. You can find these patterns in the block inserter."
 msgstr ""
 
-#: includes/functions.php:566
+#: includes/functions.php:567
 msgid "How can I create custom templates?"
 msgstr ""
 
-#: includes/functions.php:567
+#: includes/functions.php:568
 msgid "You can create custom templates by going to Appearance > Editor > Templates, then click Add New Template. You can then design your custom template using blocks."
 msgstr ""
 
-#: includes/functions.php:570
+#: includes/functions.php:571
 msgid "How do I use global styles?"
 msgstr ""
 
-#: includes/functions.php:571
+#: includes/functions.php:572
 msgid "To use global styles, go to Appearance > Editor > Styles, then click on the Edit icon in the top right side of Styles. From there, you can customize the colors, typography, and layout for your entire site."
 msgstr ""
 
-#: includes/functions.php:574
+#: includes/functions.php:575
 msgid "How can I add a \"Pattern Copy\" button to patterns?"
 msgstr ""
 
-#: includes/functions.php:575
+#: includes/functions.php:576
 msgid "To add a \"Pattern Copy\" button, use the Patterns Store plugin. In the Editor, insert a Query Loop block and include a Buttons block within it. Inside the Buttons block, add the \"Pattern Copy\" button to enable users to copy patterns."
 msgstr ""
 
-#: includes/functions.php:578
+#: includes/functions.php:579
 msgid "How can I add a \"Pattern Preview\" button to patterns?"
 msgstr ""
 
-#: includes/functions.php:579
+#: includes/functions.php:580
 msgid "To add a \"Pattern Preview\" button, use the Patterns Store plugin. In the Editor, insert a Query Loop block and include a Buttons block within it. Inside the Buttons block, add the \"Pattern Preview\" button to allow users to preview patterns."
 msgstr ""
 
-#: includes/functions.php:582
+#: includes/functions.php:583
 msgid "How can I display related patterns?"
 msgstr ""
 
-#: includes/functions.php:583
+#: includes/functions.php:584
 msgid "To display related patterns, use the Patterns Store plugin. In the Single Pattern or Single Download template, insert a Query Loop block and enable pattern relationships in the block’s settings to show related patterns."
 msgstr ""
 
-#: includes/functions.php:586
+#: includes/functions.php:587
 msgid "How can I link a pattern kit from its pattern?"
 msgstr ""
 
-#: includes/functions.php:587
+#: includes/functions.php:588
 msgid "To link a pattern kit from a pattern, use the Patterns Store plugin. In the Single Pattern or Single Download template, add a Buttons block and include the \"Pattern Kits (Parent)\" button to create a link to the associated pattern kit."
 msgstr ""
 
-#: includes/functions.php:590
+#: includes/functions.php:591
 msgid "What buttons can I use within the Buttons block?"
 msgstr ""
 
-#: includes/functions.php:591
+#: includes/functions.php:592
 msgid "Within the Buttons block, you can use the following buttons: \"Pattern Kits (Parent)\" link, \"Pattern Copy,\" and \"Pattern Preview\" for single templates, and \"All Patterns Filter,\" \"Pattern Kits Filter,\" and \"Pattern Filter\" for archive templates to filter patterns."
 msgstr ""
 

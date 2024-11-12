@@ -90,10 +90,11 @@ https://pxhere.com/en/photo/1633004
 == Changelog ==
 
 = 1.0.5 - 2024-11-12 =
-* Added: New "Pages" pattern category.
-* Added: Demo import feature via Advanced Import.
-* Updated: Removed underline from site title.
-* Updated: Link to WordPress dot org.
+* Added: "Pages" pattern category.
+* Added: Demo import functionality with Advanced Import.
+* Updated: Underline removed from the site title.
+* Updated: Link to WordPress.org.
+* Fixed: Recommended plugin installation.
 
 = 1.0.4 - 2024-11-11 =
 * Updated: Underline removed from select components.

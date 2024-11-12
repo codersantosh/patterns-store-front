@@ -81,6 +81,7 @@ if ( ! function_exists( 'patterns_store_front_install_plugin' ) ) {
 		$plugin = sanitize_text_field( $plugin_info['plugin'] );
 		$source = isset( $plugin_info['source'] ) ? esc_url_raw( $plugin_info['source'] ) : '';
 
+		include_once ABSPATH . 'wp-admin/includes/file.php';
 		include_once ABSPATH . 'wp-admin/includes/class-wp-upgrader.php';
 		include_once ABSPATH . 'wp-admin/includes/plugin-install.php';
 		include_once ABSPATH . 'wp-admin/includes/plugin.php';
